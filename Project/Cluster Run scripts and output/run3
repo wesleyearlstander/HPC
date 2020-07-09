@@ -1,0 +1,10 @@
+#!/bin/bash
+#SBATCH -p batch
+#SBATCH -N 2
+#SBATCH -n 3
+#SBATCH -- mem 1000
+#SBATCH -t 00:05:00
+#SBATCH -J test-job
+#SBATCH -o /home-mscluster/wstander/test.out
+#SBATCH -e /home-mscluster/wstander/test.err
+bash test3_cluster.sh

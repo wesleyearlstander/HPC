@@ -1,0 +1,9 @@
+./mat_vect 1 8000 8000 |& tee -a mat_vect_out.txt
+./mat_vect 1 8000000 8 |& tee -a mat_vect_out.txt
+./mat_vect 1 8 8000000 |& tee -a mat_vect_out.txt
+./mat_vect 2 8000 8000 |& tee -a mat_vect_out.txt
+./mat_vect 2 8000000 8 |& tee -a mat_vect_out.txt
+./mat_vect 2 8 8000000 |& tee -a mat_vect_out.txt
+./mat_vect 4 8000 8000 |& tee -a mat_vect_out.txt
+./mat_vect 4 8000000 8 |& tee -a mat_vect_out.txt
+./mat_vect 4 8 8000000 |& tee -a mat_vect_out.txt

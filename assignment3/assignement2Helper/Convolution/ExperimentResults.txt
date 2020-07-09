@@ -1,0 +1,348 @@
+Kernel size: 3x3
+Kernel Type: Averaging
+Image name: ../data/lena_bw.pgm
+Image size: 512x512
+Performance of sequential implementation: 0.412428 GFLOPS
+Performance of global kernel: 192.808 GFLOPS
+Performance of shared strided kernel: 142.399 GFLOPS
+Performance of shared tiled kernel: 185.682 GFLOPS
+Performance of 2D texture kernel: 77.6182 GFLOPS
+Performance of 1D texture kernel: 79.3807 GFLOPS
+Performance of 2D texture and constant kernel: 107.417 GFLOPS
+Performance of 1D texture and constant kernel: 121.363 GFLOPS
+Performance of 2D texture shared implementation and constant kernel: 129.878 GFLOPS
+Performance of 1D texture shared implementation and constant kernel: 161.279 GFLOPS
+
+
+Kernel size: 5x5
+Kernel Type: Averaging
+Image name: ../data/lena_bw.pgm
+Image size: 512x512
+Performance of sequential implementation: 0.434481 GFLOPS
+Performance of global kernel: 165.161 GFLOPS
+Performance of shared strided kernel: 313.786 GFLOPS
+Performance of shared tiled kernel: 380.765 GFLOPS
+Performance of 2D texture kernel: 89.7215 GFLOPS
+Performance of 1D texture kernel: 87.8297 GFLOPS
+Performance of 2D texture and constant kernel: 147.238 GFLOPS
+Performance of 1D texture and constant kernel: 145.589 GFLOPS
+Performance of 2D texture shared implementation and constant kernel: 290.435 GFLOPS
+Performance of 1D texture shared implementation and constant kernel: 337.291 GFLOPS
+
+
+Kernel size: 7x7
+Kernel Type: Averaging
+Image name: ../data/lena_bw.pgm
+Image size: 512x512
+Performance of sequential implementation: 0.453966 GFLOPS
+Performance of global kernel: 51.0671 GFLOPS
+Performance of shared strided kernel: 448.478 GFLOPS
+Performance of shared tiled kernel: 535.007 GFLOPS
+Performance of 2D texture kernel: 94.4421 GFLOPS
+Performance of 1D texture kernel: 91.7155 GFLOPS
+Performance of 2D texture and constant kernel: 172.075 GFLOPS
+Performance of 1D texture and constant kernel: 155.623 GFLOPS
+Performance of 2D texture shared implementation and constant kernel: 424.057 GFLOPS
+Performance of 1D texture shared implementation and constant kernel: 472.815 GFLOPS
+
+
+Kernel size: 9x9
+Kernel Type: Averaging
+Image name: ../data/lena_bw.pgm
+Image size: 512x512
+Performance of sequential implementation: 0.44997 GFLOPS
+Performance of global kernel: 39.7144 GFLOPS
+Performance of shared strided kernel: 691.74 GFLOPS
+Performance of shared tiled kernel: 633.816 GFLOPS
+Performance of 2D texture kernel: 125.941 GFLOPS
+Performance of 1D texture kernel: 136.121 GFLOPS
+Performance of 2D texture and constant kernel: 234.241 GFLOPS
+Performance of 1D texture and constant kernel: 113.297 GFLOPS
+Performance of 2D texture shared implementation and constant kernel: 673.39 GFLOPS
+Performance of 1D texture shared implementation and constant kernel: 726.778 GFLOPS
+
+
+Kernel size: 11x11
+Kernel Type: Averaging
+Image name: ../data/lena_bw.pgm
+Image size: 512x512
+Performance of sequential implementation: 0.457557 GFLOPS
+Performance of global kernel: 75.5134 GFLOPS
+Performance of shared strided kernel: 631.901 GFLOPS
+Performance of shared tiled kernel: 686.465 GFLOPS
+Performance of 2D texture kernel: 98.8813 GFLOPS
+Performance of 1D texture kernel: 105.884 GFLOPS
+Performance of 2D texture and constant kernel: 185.159 GFLOPS
+Performance of 1D texture and constant kernel: 70.3283 GFLOPS
+Performance of 2D texture shared implementation and constant kernel: 633.142 GFLOPS
+Performance of 1D texture shared implementation and constant kernel: 672.854 GFLOPS
+
+
+Kernel size: 13x13
+Kernel Type: Averaging
+Image name: ../data/lena_bw.pgm
+Image size: 512x512
+Performance of sequential implementation: 0.461727 GFLOPS
+Performance of global kernel: 63.847 GFLOPS
+Performance of shared strided kernel: 683.914 GFLOPS
+Performance of shared tiled kernel: 738.268 GFLOPS
+Performance of 2D texture kernel: 100.985 GFLOPS
+Performance of 1D texture kernel: 124.178 GFLOPS
+Performance of 2D texture and constant kernel: 223.715 GFLOPS
+Performance of 1D texture and constant kernel: 66.2688 GFLOPS
+Performance of 2D texture shared implementation and constant kernel: 772.336 GFLOPS
+Performance of 1D texture shared implementation and constant kernel: 810.676 GFLOPS
+
+
+Kernel size: 15x15
+Kernel Type: Averaging
+Image name: ../data/lena_bw.pgm
+Image size: 512x512
+Performance of sequential implementation: 0.456533 GFLOPS
+Performance of global kernel: 62.444 GFLOPS
+Performance of shared strided kernel: 1020.49 GFLOPS
+Performance of shared tiled kernel: 1071.7 GFLOPS
+Performance of 2D texture kernel: 144.769 GFLOPS
+Performance of 1D texture kernel: 151.221 GFLOPS
+Performance of 2D texture and constant kernel: 289 GFLOPS
+Performance of 1D texture and constant kernel: 258.589 GFLOPS
+Performance of 2D texture shared implementation and constant kernel: 1045.48 GFLOPS
+Performance of 1D texture shared implementation and constant kernel: 1087.64 GFLOPS
+
+
+Kernel size: 17x17
+Kernel Type: Averaging
+Image name: ../data/lena_bw.pgm
+Image size: 512x512
+Performance of sequential implementation: 0.453962 GFLOPS
+Performance of global kernel: 190.995 GFLOPS
+Performance of shared strided kernel: 752.086 GFLOPS
+Performance of shared tiled kernel: 789.04 GFLOPS
+Performance of 2D texture kernel: 110.353 GFLOPS
+Performance of 1D texture kernel: 129.188 GFLOPS
+Performance of 2D texture and constant kernel: 317.566 GFLOPS
+Performance of 1D texture and constant kernel: 273.616 GFLOPS
+Performance of 2D texture shared implementation and constant kernel: 1177.47 GFLOPS
+Performance of 1D texture shared implementation and constant kernel: 1224.16 GFLOPS
+
+
+Kernel size: 19x19
+Kernel Type: Averaging
+Image name: ../data/lena_bw.pgm
+Image size: 512x512
+Performance of sequential implementation: 0.423835 GFLOPS
+Performance of global kernel: 188.402 GFLOPS
+Performance of shared strided kernel: 1134.61 GFLOPS
+Performance of shared tiled kernel: 1183.39 GFLOPS
+Performance of 2D texture kernel: 154.67 GFLOPS
+Performance of 1D texture kernel: 135.369 GFLOPS
+Performance of 2D texture and constant kernel: 238.497 GFLOPS
+Performance of 1D texture and constant kernel: 167.679 GFLOPS
+Performance of 2D texture shared implementation and constant kernel: 1216.07 GFLOPS
+Performance of 1D texture shared implementation and constant kernel: 1245.45 GFLOPS
+
+
+Kernel size: 21x21
+Kernel Type: Averaging
+Image name: ../data/lena_bw.pgm
+Image size: 512x512
+Performance of sequential implementation: 0.463627 GFLOPS
+Performance of global kernel: 188.223 GFLOPS
+Performance of shared strided kernel: 1219.17 GFLOPS
+Performance of shared tiled kernel: 1257.2 GFLOPS
+Performance of 2D texture kernel: 111.771 GFLOPS
+Performance of 1D texture kernel: 185.5 GFLOPS
+Performance of 2D texture and constant kernel: 384.886 GFLOPS
+Performance of 1D texture and constant kernel: 284.546 GFLOPS
+Performance of 2D texture shared implementation and constant kernel: 1483.54 GFLOPS
+Performance of 1D texture shared implementation and constant kernel: 1515.96 GFLOPS
+
+
+Kernel size: 23x23
+Kernel Type: Averaging
+Image name: ../data/lena_bw.pgm
+Image size: 512x512
+Performance of sequential implementation: 0.469585 GFLOPS
+Performance of global kernel: 183.308 GFLOPS
+Performance of shared strided kernel: 1476.66 GFLOPS
+Performance of shared tiled kernel: 1521.53 GFLOPS
+Performance of 2D texture kernel: 86.8164 GFLOPS
+Performance of 1D texture kernel: 183.566 GFLOPS
+Performance of 2D texture and constant kernel: 207.438 GFLOPS
+Performance of 1D texture and constant kernel: 279.031 GFLOPS
+Performance of 2D texture shared implementation and constant kernel: 1570.01 GFLOPS
+Performance of 1D texture shared implementation and constant kernel: 1601.79 GFLOPS
+
+
+Kernel size: 25x25
+Kernel Type: Averaging
+Image name: ../data/lena_bw.pgm
+Image size: 512x512
+Performance of sequential implementation: 0.472081 GFLOPS
+Performance of global kernel: 181.619 GFLOPS
+Performance of shared strided kernel: 1280.6 GFLOPS
+Performance of shared tiled kernel: 1311.02 GFLOPS
+Performance of 2D texture kernel: 92.2944 GFLOPS
+Performance of 1D texture kernel: 188.286 GFLOPS
+Performance of 2D texture and constant kernel: 223.872 GFLOPS
+Performance of 1D texture and constant kernel: 273.461 GFLOPS
+Performance of 2D texture shared implementation and constant kernel: 1586.45 GFLOPS
+Performance of 1D texture shared implementation and constant kernel: 1623.01 GFLOPS
+
+
+Kernel size: 27x27
+Kernel Type: Averaging
+Image name: ../data/lena_bw.pgm
+Image size: 512x512
+Performance of sequential implementation: 0.474037 GFLOPS
+Performance of global kernel: 187.741 GFLOPS
+Performance of shared strided kernel: 1344.29 GFLOPS
+Performance of shared tiled kernel: 1373.57 GFLOPS
+Performance of 2D texture kernel: 96.9806 GFLOPS
+Performance of 1D texture kernel: 185.622 GFLOPS
+Performance of 2D texture and constant kernel: 223.091 GFLOPS
+Performance of 1D texture and constant kernel: 270.842 GFLOPS
+Performance of 2D texture shared implementation and constant kernel: 1616.77 GFLOPS
+Performance of 1D texture shared implementation and constant kernel: 1644.81 GFLOPS
+
+
+Kernel size: 29x29
+Kernel Type: Averaging
+Image name: ../data/lena_bw.pgm
+Image size: 512x512
+Performance of sequential implementation: 0.282348 GFLOPS
+Performance of global kernel: 183.296 GFLOPS
+Performance of shared strided kernel: 815.093 GFLOPS
+Performance of shared tiled kernel: 1642.99 GFLOPS
+Performance of 2D texture kernel: 95.5493 GFLOPS
+Performance of 1D texture kernel: 182.871 GFLOPS
+Performance of 2D texture and constant kernel: 202.946 GFLOPS
+Performance of 1D texture and constant kernel: 262.163 GFLOPS
+Performance of 2D texture shared implementation and constant kernel: 1594.97 GFLOPS
+Performance of 1D texture shared implementation and constant kernel: 821.953 GFLOPS
+
+
+Kernel size: 31x31
+Kernel Type: Averaging
+Image name: ../data/lena_bw.pgm
+Image size: 512x512
+Performance of sequential implementation: 0.465753 GFLOPS
+Performance of global kernel: 209.264 GFLOPS
+Performance of shared strided kernel: 822.392 GFLOPS
+Performance of shared tiled kernel: 1665.03 GFLOPS
+Performance of 2D texture kernel: 99.5355 GFLOPS
+Performance of 1D texture kernel: 177.706 GFLOPS
+Performance of 2D texture and constant kernel: 204.762 GFLOPS
+Performance of 1D texture and constant kernel: 258.352 GFLOPS
+Performance of 2D texture shared implementation and constant kernel: 1621.04 GFLOPS
+Performance of 1D texture shared implementation and constant kernel: 826.177 GFLOPS
+
+Kernel size: 3x3
+Kernel Type: Edge
+Image name: ../data/lena_bw.pgm
+Image size: 512x512
+Performance of sequential implementation: 0.425884 GFLOPS
+Performance of global kernel: 192.71 GFLOPS
+Performance of shared strided kernel: 145.234 GFLOPS
+Performance of shared tiled kernel: 194.705 GFLOPS
+Performance of 2D texture kernel: 77.5745 GFLOPS
+Performance of 1D texture kernel: 79.2902 GFLOPS
+Performance of 2D texture and constant kernel: 107.667 GFLOPS
+Performance of 1D texture and constant kernel: 121.416 GFLOPS
+Performance of 2D texture shared implementation and constant kernel: 130.296 GFLOPS
+Performance of 1D texture shared implementation and constant kernel: 161.972 GFLOPS
+
+Kernel size: 3x3
+Kernel Type: SharpenKernel
+Image name: ../data/lena_bw.pgm
+Image size: 512x512
+Performance of sequential implementation: 0.42454 GFLOPS
+Performance of global kernel: 193.367 GFLOPS
+Performance of shared strided kernel: 145.092 GFLOPS
+Performance of shared tiled kernel: 195.594 GFLOPS
+Performance of 2D texture kernel: 77.5382 GFLOPS
+Performance of 1D texture kernel: 79.4851 GFLOPS
+Performance of 2D texture and constant kernel: 107.697 GFLOPS
+Performance of 1D texture and constant kernel: 121.942 GFLOPS
+Performance of 2D texture shared implementation and constant kernel: 130.151 GFLOPS
+Performance of 1D texture shared implementation and constant kernel: 161.401 GFLOPS
+
+Kernel size: 3x3
+Kernel Type: Average
+Image name: ../data/man.pgm
+Image size: 1024x1024
+Performance of sequential implementation: 0.433173 GFLOPS
+Performance of global kernel: 206.195 GFLOPS
+Performance of shared strided kernel: 159.513 GFLOPS
+Performance of shared tiled kernel: 211.091 GFLOPS
+Performance of 2D texture kernel: 81.5904 GFLOPS
+Performance of 1D texture kernel: 84.0301 GFLOPS
+Performance of 2D texture and constant kernel: 111.733 GFLOPS
+Performance of 1D texture and constant kernel: 129.312 GFLOPS
+Performance of 2D texture shared implementation and constant kernel: 136.425 GFLOPS
+Performance of 1D texture shared implementation and constant kernel: 172.446 GFLOPS
+
+
+Kernel size: 3x3
+Kernel Type: Average
+Image name: ../data/finger.pgm
+Image size: 256x256
+Performance of sequential implementation: 0.255013 GFLOPS
+Performance of global kernel: 110.21 GFLOPS
+Performance of shared strided kernel: 87.4238 GFLOPS
+Performance of shared tiled kernel: 112.517 GFLOPS
+Performance of 2D texture kernel: 48.3221 GFLOPS
+Performance of 1D texture kernel: 50.6805 GFLOPS
+Performance of 2D texture and constant kernel: 63.0272 GFLOPS
+Performance of 1D texture and constant kernel: 69.7046 GFLOPS
+Performance of 2D texture shared implementation and constant kernel: 75.6076 GFLOPS
+Performance of 1D texture shared implementation and constant kernel: 88.7071 GFLOPS
+
+
+Kernel size: 31x31
+Kernel Type: average
+Image name: ../data/lena_bw.pgm
+Image size: 512x512
+Performance of sequential implementation: 0.470075 GFLOPS
+Performance of global kernel: 184.642 GFLOPS
+Performance of shared strided kernel: 822.249 GFLOPS
+Performance of shared tiled kernel: 1678.84 GFLOPS
+Performance of 2D texture kernel: 93.5158 GFLOPS
+Performance of 1D texture kernel: 178.715 GFLOPS
+Performance of 2D texture and constant kernel: 205.834 GFLOPS
+Performance of 1D texture and constant kernel: 257.527 GFLOPS
+Performance of 2D texture shared implementation and constant kernel: 1643.44 GFLOPS
+Performance of 1D texture shared implementation and constant kernel: 826.993 GFLOPS
+
+
+Kernel size: 31x31
+Kernel Type: average
+Image name: ../data/man.pgm
+Image size: 1024x1024
+Performance of sequential implementation: 0.420427 GFLOPS
+Performance of global kernel: 286.689 GFLOPS
+Performance of shared strided kernel: 858.77 GFLOPS
+Performance of shared tiled kernel: 1044.45 GFLOPS
+Performance of 2D texture kernel: 117.384 GFLOPS
+Performance of 1D texture kernel: 171.34 GFLOPS
+Performance of 2D texture and constant kernel: 197.046 GFLOPS
+Performance of 1D texture and constant kernel: 240.331 GFLOPS
+Performance of 2D texture shared implementation and constant kernel: 995.581 GFLOPS
+Performance of 1D texture shared implementation and constant kernel: 862.461 GFLOPS
+
+Kernel size: 31x31
+Kernel Type: average
+Image name: ../data/finger.pgm
+Image size: 256x256
+Performance of sequential implementation: 0.279738 GFLOPS
+Performance of global kernel: 132.218 GFLOPS
+Performance of shared strided kernel: 753.402 GFLOPS
+Performance of shared tiled kernel: 764.283 GFLOPS
+Performance of 2D texture kernel: 62.1348 GFLOPS
+Performance of 1D texture kernel: 151.183 GFLOPS
+Performance of 2D texture and constant kernel: 170.644 GFLOPS
+Performance of 1D texture and constant kernel: 211.9 GFLOPS
+Performance of 2D texture shared implementation and constant kernel: 1175.61 GFLOPS
+Performance of 1D texture shared implementation and constant kernel: 653.736 GFLOPS
+
+
